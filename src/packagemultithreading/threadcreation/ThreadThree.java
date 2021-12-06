@@ -1,4 +1,4 @@
-package packagemultithreading;
+package packagemultithreading.threadcreation;
 
 
 // using Runnable interface in an anonymous class

@@ -1,4 +1,4 @@
-package packagemultithreading;
+package packagemultithreading.threadcreation;
 
 
 // using Runnable interface in a lambda expression

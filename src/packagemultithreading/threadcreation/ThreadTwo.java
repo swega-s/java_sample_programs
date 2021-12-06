@@ -1,4 +1,4 @@
-package packagemultithreading;
+package packagemultithreading.threadcreation;
 
 
 // using a class which implements Runnable interface, so it must override run() method

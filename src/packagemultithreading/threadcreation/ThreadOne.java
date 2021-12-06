@@ -1,4 +1,4 @@
-package packagemultithreading;
+package packagemultithreading.threadcreation;
 
 
 // using with our own thread class by extending Thread class
